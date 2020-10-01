@@ -1,0 +1,33 @@
+body {
+  font-family: "Roboto", sans-serif;
+  margin: -20px;
+  background-color: whitesmoke;
+  text-decoration: none;
+}
+
+nav {
+  opacity: 0.9;
+}
+
+.lote1{
+  background-image: url("../images/part11.jpg");
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-size: cover;
+  padding: 40% 0;
+  color: white;
+  max-width: 100%;
+  width: 100%;
+  
+}
+.lote2{
+  background-image: url("../images/part21.jpg");
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-size: cover;
+  padding: 40% 0;
+  color: white;
+  max-width: 100%;
+  width: 100%;
+  
+}
