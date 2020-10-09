@@ -1,6 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
-  margin: -20px;
+  margin: 0;
   background-color: #f7f7f7;
   text-decoration: none;
 }
@@ -54,5 +54,21 @@ nav {
   display: inline-block;
 }
 .foot{
-  margin: 2vw 0;
+  margin: 1vw 0;
+}
+.carousel{
+	max-width: 100%;
+}
+img{
+	width: 100%
+}
+.middle{
+	max-height: 80%
+}
+
+.modalimage{
+	padding-top: 5%;
+}
+.menu-item{
+  cursor: pointer;
 }
